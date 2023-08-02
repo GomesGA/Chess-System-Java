@@ -1,8 +1,16 @@
-Projeto do Curso: Programação Orientada a Objetos com Java
+# Projeto do Curso: Programação Orientada a Objetos com Java
 
-PROJETO Chess System Java
+# PROJETO Chess System Java
 
-Explicações dos Commits
+## Modelo de dominio 
+![Modelo 1](https://raw.githubusercontent.com/acenelio/chess-system-design/master/chess-system-design.png) 
+
+# Tecnologias utilizadas
+## Back end
+* Java
+
+
+## Explicações dos Commits
 
 -Projeto Criado : 
 * Criação do Projeto.
@@ -40,3 +48,4 @@ Explicações dos Commits
 * Jogada especial Roque e En passant.
 * Jogada especial promoção.
 * Atualização de compliance.
+
